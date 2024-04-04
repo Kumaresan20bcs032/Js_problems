@@ -1,0 +1,10 @@
+// 1.Find a given value inside an array
+
+let arr=[1,2,3,4,5]
+let k=4
+if(arr.includes(k)){
+    console.log("Element present in array")
+}
+else{
+    console.log("Element not present in array")
+}
